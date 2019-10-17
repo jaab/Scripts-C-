@@ -1,0 +1,11 @@
+C:\Users\Utilizador\source\repos\contar_negativos\contar_negativos\bin\Debug\netcoreapp2.2\contar_negativos.deps.json
+C:\Users\Utilizador\source\repos\contar_negativos\contar_negativos\bin\Debug\netcoreapp2.2\contar_negativos.runtimeconfig.json
+C:\Users\Utilizador\source\repos\contar_negativos\contar_negativos\bin\Debug\netcoreapp2.2\contar_negativos.runtimeconfig.dev.json
+C:\Users\Utilizador\source\repos\contar_negativos\contar_negativos\bin\Debug\netcoreapp2.2\contar_negativos.dll
+C:\Users\Utilizador\source\repos\contar_negativos\contar_negativos\bin\Debug\netcoreapp2.2\contar_negativos.pdb
+C:\Users\Utilizador\source\repos\contar_negativos\contar_negativos\obj\Debug\netcoreapp2.2\contar_negativos.csprojAssemblyReference.cache
+C:\Users\Utilizador\source\repos\contar_negativos\contar_negativos\obj\Debug\netcoreapp2.2\contar_negativos.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\contar_negativos\contar_negativos\obj\Debug\netcoreapp2.2\contar_negativos.AssemblyInfoInputs.cache
+C:\Users\Utilizador\source\repos\contar_negativos\contar_negativos\obj\Debug\netcoreapp2.2\contar_negativos.AssemblyInfo.cs
+C:\Users\Utilizador\source\repos\contar_negativos\contar_negativos\obj\Debug\netcoreapp2.2\contar_negativos.dll
+C:\Users\Utilizador\source\repos\contar_negativos\contar_negativos\obj\Debug\netcoreapp2.2\contar_negativos.pdb

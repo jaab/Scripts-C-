@@ -1,0 +1,11 @@
+C:\Users\Utilizador\source\repos\ciclo_for\ciclo_for\bin\Debug\netcoreapp2.2\ciclo_for.deps.json
+C:\Users\Utilizador\source\repos\ciclo_for\ciclo_for\bin\Debug\netcoreapp2.2\ciclo_for.runtimeconfig.json
+C:\Users\Utilizador\source\repos\ciclo_for\ciclo_for\bin\Debug\netcoreapp2.2\ciclo_for.runtimeconfig.dev.json
+C:\Users\Utilizador\source\repos\ciclo_for\ciclo_for\bin\Debug\netcoreapp2.2\ciclo_for.dll
+C:\Users\Utilizador\source\repos\ciclo_for\ciclo_for\bin\Debug\netcoreapp2.2\ciclo_for.pdb
+C:\Users\Utilizador\source\repos\ciclo_for\ciclo_for\obj\Debug\netcoreapp2.2\ciclo_for.csprojAssemblyReference.cache
+C:\Users\Utilizador\source\repos\ciclo_for\ciclo_for\obj\Debug\netcoreapp2.2\ciclo_for.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\ciclo_for\ciclo_for\obj\Debug\netcoreapp2.2\ciclo_for.AssemblyInfoInputs.cache
+C:\Users\Utilizador\source\repos\ciclo_for\ciclo_for\obj\Debug\netcoreapp2.2\ciclo_for.AssemblyInfo.cs
+C:\Users\Utilizador\source\repos\ciclo_for\ciclo_for\obj\Debug\netcoreapp2.2\ciclo_for.dll
+C:\Users\Utilizador\source\repos\ciclo_for\ciclo_for\obj\Debug\netcoreapp2.2\ciclo_for.pdb

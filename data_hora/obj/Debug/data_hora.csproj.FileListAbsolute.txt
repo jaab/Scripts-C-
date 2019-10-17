@@ -1,0 +1,11 @@
+C:\Users\Utilizador\source\repos\data_hora\bin\Debug\data_hora.exe.config
+C:\Users\Utilizador\source\repos\data_hora\bin\Debug\data_hora.exe
+C:\Users\Utilizador\source\repos\data_hora\bin\Debug\data_hora.pdb
+C:\Users\Utilizador\source\repos\data_hora\obj\Debug\data_hora.Form1.resources
+C:\Users\Utilizador\source\repos\data_hora\obj\Debug\data_hora.Properties.Resources.resources
+C:\Users\Utilizador\source\repos\data_hora\obj\Debug\data_hora.csproj.GenerateResource.cache
+C:\Users\Utilizador\source\repos\data_hora\obj\Debug\data_hora.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\data_hora\obj\Debug\data_hora.exe
+C:\Users\Utilizador\source\repos\data_hora\obj\Debug\data_hora.pdb
+C:\Users\Utilizador\source\repos\data_hora\obj\Debug\data_hora.csprojAssemblyReference.cache
+C:\Users\Utilizador\source\repos\data_hora\obj\Debug\data_hora.Form2.resources

@@ -1,0 +1,11 @@
+C:\Users\Utilizador\source\repos\calculo_massa_corporal\bin\Debug\netcoreapp2.2\calculo_massa_corporal.deps.json
+C:\Users\Utilizador\source\repos\calculo_massa_corporal\bin\Debug\netcoreapp2.2\calculo_massa_corporal.runtimeconfig.json
+C:\Users\Utilizador\source\repos\calculo_massa_corporal\bin\Debug\netcoreapp2.2\calculo_massa_corporal.runtimeconfig.dev.json
+C:\Users\Utilizador\source\repos\calculo_massa_corporal\bin\Debug\netcoreapp2.2\calculo_massa_corporal.dll
+C:\Users\Utilizador\source\repos\calculo_massa_corporal\bin\Debug\netcoreapp2.2\calculo_massa_corporal.pdb
+C:\Users\Utilizador\source\repos\calculo_massa_corporal\obj\Debug\netcoreapp2.2\calculo_massa_corporal.csprojAssemblyReference.cache
+C:\Users\Utilizador\source\repos\calculo_massa_corporal\obj\Debug\netcoreapp2.2\calculo_massa_corporal.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\calculo_massa_corporal\obj\Debug\netcoreapp2.2\calculo_massa_corporal.AssemblyInfoInputs.cache
+C:\Users\Utilizador\source\repos\calculo_massa_corporal\obj\Debug\netcoreapp2.2\calculo_massa_corporal.AssemblyInfo.cs
+C:\Users\Utilizador\source\repos\calculo_massa_corporal\obj\Debug\netcoreapp2.2\calculo_massa_corporal.dll
+C:\Users\Utilizador\source\repos\calculo_massa_corporal\obj\Debug\netcoreapp2.2\calculo_massa_corporal.pdb

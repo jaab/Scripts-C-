@@ -1,0 +1,11 @@
+C:\Users\Utilizador\source\repos\jogo_adivinha_numero\jogo_adivinha_numero\bin\Debug\netcoreapp2.2\jogo_adivinha_numero.deps.json
+C:\Users\Utilizador\source\repos\jogo_adivinha_numero\jogo_adivinha_numero\bin\Debug\netcoreapp2.2\jogo_adivinha_numero.runtimeconfig.json
+C:\Users\Utilizador\source\repos\jogo_adivinha_numero\jogo_adivinha_numero\bin\Debug\netcoreapp2.2\jogo_adivinha_numero.runtimeconfig.dev.json
+C:\Users\Utilizador\source\repos\jogo_adivinha_numero\jogo_adivinha_numero\bin\Debug\netcoreapp2.2\jogo_adivinha_numero.dll
+C:\Users\Utilizador\source\repos\jogo_adivinha_numero\jogo_adivinha_numero\bin\Debug\netcoreapp2.2\jogo_adivinha_numero.pdb
+C:\Users\Utilizador\source\repos\jogo_adivinha_numero\jogo_adivinha_numero\obj\Debug\netcoreapp2.2\jogo_adivinha_numero.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\jogo_adivinha_numero\jogo_adivinha_numero\obj\Debug\netcoreapp2.2\jogo_adivinha_numero.AssemblyInfoInputs.cache
+C:\Users\Utilizador\source\repos\jogo_adivinha_numero\jogo_adivinha_numero\obj\Debug\netcoreapp2.2\jogo_adivinha_numero.AssemblyInfo.cs
+C:\Users\Utilizador\source\repos\jogo_adivinha_numero\jogo_adivinha_numero\obj\Debug\netcoreapp2.2\jogo_adivinha_numero.dll
+C:\Users\Utilizador\source\repos\jogo_adivinha_numero\jogo_adivinha_numero\obj\Debug\netcoreapp2.2\jogo_adivinha_numero.pdb
+C:\Users\Utilizador\source\repos\jogo_adivinha_numero\jogo_adivinha_numero\obj\Debug\netcoreapp2.2\jogo_adivinha_numero.csprojAssemblyReference.cache

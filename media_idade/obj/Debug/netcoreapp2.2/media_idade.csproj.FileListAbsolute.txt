@@ -1,0 +1,11 @@
+C:\Users\Utilizador\source\repos\media_idade\bin\Debug\netcoreapp2.2\media_idade.deps.json
+C:\Users\Utilizador\source\repos\media_idade\bin\Debug\netcoreapp2.2\media_idade.runtimeconfig.json
+C:\Users\Utilizador\source\repos\media_idade\bin\Debug\netcoreapp2.2\media_idade.runtimeconfig.dev.json
+C:\Users\Utilizador\source\repos\media_idade\bin\Debug\netcoreapp2.2\media_idade.dll
+C:\Users\Utilizador\source\repos\media_idade\bin\Debug\netcoreapp2.2\media_idade.pdb
+C:\Users\Utilizador\source\repos\media_idade\obj\Debug\netcoreapp2.2\media_idade.csprojAssemblyReference.cache
+C:\Users\Utilizador\source\repos\media_idade\obj\Debug\netcoreapp2.2\media_idade.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\media_idade\obj\Debug\netcoreapp2.2\media_idade.AssemblyInfoInputs.cache
+C:\Users\Utilizador\source\repos\media_idade\obj\Debug\netcoreapp2.2\media_idade.AssemblyInfo.cs
+C:\Users\Utilizador\source\repos\media_idade\obj\Debug\netcoreapp2.2\media_idade.dll
+C:\Users\Utilizador\source\repos\media_idade\obj\Debug\netcoreapp2.2\media_idade.pdb

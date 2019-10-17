@@ -1,0 +1,11 @@
+C:\Users\Utilizador\source\repos\programa_loja\bin\Debug\netcoreapp2.2\programa_loja.deps.json
+C:\Users\Utilizador\source\repos\programa_loja\bin\Debug\netcoreapp2.2\programa_loja.runtimeconfig.json
+C:\Users\Utilizador\source\repos\programa_loja\bin\Debug\netcoreapp2.2\programa_loja.runtimeconfig.dev.json
+C:\Users\Utilizador\source\repos\programa_loja\bin\Debug\netcoreapp2.2\programa_loja.dll
+C:\Users\Utilizador\source\repos\programa_loja\bin\Debug\netcoreapp2.2\programa_loja.pdb
+C:\Users\Utilizador\source\repos\programa_loja\obj\Debug\netcoreapp2.2\programa_loja.csprojAssemblyReference.cache
+C:\Users\Utilizador\source\repos\programa_loja\obj\Debug\netcoreapp2.2\programa_loja.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\programa_loja\obj\Debug\netcoreapp2.2\programa_loja.AssemblyInfoInputs.cache
+C:\Users\Utilizador\source\repos\programa_loja\obj\Debug\netcoreapp2.2\programa_loja.AssemblyInfo.cs
+C:\Users\Utilizador\source\repos\programa_loja\obj\Debug\netcoreapp2.2\programa_loja.dll
+C:\Users\Utilizador\source\repos\programa_loja\obj\Debug\netcoreapp2.2\programa_loja.pdb

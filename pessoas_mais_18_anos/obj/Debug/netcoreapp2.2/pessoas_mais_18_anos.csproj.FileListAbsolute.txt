@@ -1,0 +1,11 @@
+C:\Users\Utilizador\source\repos\pessoas_mais_18_anos\bin\Debug\netcoreapp2.2\pessoas_mais_18_anos.deps.json
+C:\Users\Utilizador\source\repos\pessoas_mais_18_anos\bin\Debug\netcoreapp2.2\pessoas_mais_18_anos.runtimeconfig.json
+C:\Users\Utilizador\source\repos\pessoas_mais_18_anos\bin\Debug\netcoreapp2.2\pessoas_mais_18_anos.runtimeconfig.dev.json
+C:\Users\Utilizador\source\repos\pessoas_mais_18_anos\bin\Debug\netcoreapp2.2\pessoas_mais_18_anos.dll
+C:\Users\Utilizador\source\repos\pessoas_mais_18_anos\bin\Debug\netcoreapp2.2\pessoas_mais_18_anos.pdb
+C:\Users\Utilizador\source\repos\pessoas_mais_18_anos\obj\Debug\netcoreapp2.2\pessoas_mais_18_anos.csprojAssemblyReference.cache
+C:\Users\Utilizador\source\repos\pessoas_mais_18_anos\obj\Debug\netcoreapp2.2\pessoas_mais_18_anos.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\pessoas_mais_18_anos\obj\Debug\netcoreapp2.2\pessoas_mais_18_anos.AssemblyInfoInputs.cache
+C:\Users\Utilizador\source\repos\pessoas_mais_18_anos\obj\Debug\netcoreapp2.2\pessoas_mais_18_anos.AssemblyInfo.cs
+C:\Users\Utilizador\source\repos\pessoas_mais_18_anos\obj\Debug\netcoreapp2.2\pessoas_mais_18_anos.dll
+C:\Users\Utilizador\source\repos\pessoas_mais_18_anos\obj\Debug\netcoreapp2.2\pessoas_mais_18_anos.pdb

@@ -1,0 +1,10 @@
+C:\Users\Utilizador\source\repos\ciclo_while_listbox\ciclo_while_listbox\bin\Debug\ciclo_while_listbox.exe.config
+C:\Users\Utilizador\source\repos\ciclo_while_listbox\ciclo_while_listbox\bin\Debug\ciclo_while_listbox.exe
+C:\Users\Utilizador\source\repos\ciclo_while_listbox\ciclo_while_listbox\bin\Debug\ciclo_while_listbox.pdb
+C:\Users\Utilizador\source\repos\ciclo_while_listbox\ciclo_while_listbox\obj\Debug\ciclo_while_listbox.csprojAssemblyReference.cache
+C:\Users\Utilizador\source\repos\ciclo_while_listbox\ciclo_while_listbox\obj\Debug\ciclo_while_listbox.Form1.resources
+C:\Users\Utilizador\source\repos\ciclo_while_listbox\ciclo_while_listbox\obj\Debug\ciclo_while_listbox.Properties.Resources.resources
+C:\Users\Utilizador\source\repos\ciclo_while_listbox\ciclo_while_listbox\obj\Debug\ciclo_while_listbox.csproj.GenerateResource.cache
+C:\Users\Utilizador\source\repos\ciclo_while_listbox\ciclo_while_listbox\obj\Debug\ciclo_while_listbox.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\ciclo_while_listbox\ciclo_while_listbox\obj\Debug\ciclo_while_listbox.exe
+C:\Users\Utilizador\source\repos\ciclo_while_listbox\ciclo_while_listbox\obj\Debug\ciclo_while_listbox.pdb

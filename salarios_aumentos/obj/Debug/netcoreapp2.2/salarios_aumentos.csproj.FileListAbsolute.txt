@@ -1,0 +1,11 @@
+C:\Users\Utilizador\source\repos\salarios_aumentos\bin\Debug\netcoreapp2.2\salarios_aumentos.deps.json
+C:\Users\Utilizador\source\repos\salarios_aumentos\bin\Debug\netcoreapp2.2\salarios_aumentos.runtimeconfig.json
+C:\Users\Utilizador\source\repos\salarios_aumentos\bin\Debug\netcoreapp2.2\salarios_aumentos.runtimeconfig.dev.json
+C:\Users\Utilizador\source\repos\salarios_aumentos\bin\Debug\netcoreapp2.2\salarios_aumentos.dll
+C:\Users\Utilizador\source\repos\salarios_aumentos\bin\Debug\netcoreapp2.2\salarios_aumentos.pdb
+C:\Users\Utilizador\source\repos\salarios_aumentos\obj\Debug\netcoreapp2.2\salarios_aumentos.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\salarios_aumentos\obj\Debug\netcoreapp2.2\salarios_aumentos.AssemblyInfoInputs.cache
+C:\Users\Utilizador\source\repos\salarios_aumentos\obj\Debug\netcoreapp2.2\salarios_aumentos.AssemblyInfo.cs
+C:\Users\Utilizador\source\repos\salarios_aumentos\obj\Debug\netcoreapp2.2\salarios_aumentos.dll
+C:\Users\Utilizador\source\repos\salarios_aumentos\obj\Debug\netcoreapp2.2\salarios_aumentos.pdb
+C:\Users\Utilizador\source\repos\salarios_aumentos\obj\Debug\netcoreapp2.2\salarios_aumentos.csprojAssemblyReference.cache
